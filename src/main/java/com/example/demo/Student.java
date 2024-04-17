@@ -29,7 +29,7 @@ public class Student {
     }
 
     public void display() {
-        System.out.println("Name: " + name);
+        System.out.println("running the display method");
     }
 
     
